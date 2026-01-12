@@ -37,4 +37,10 @@ SQL is used for data querying and transformation, while Power BI is used for int
 
 ![Dashboard Overview]<img width="1332" height="741" alt="DashBoardImg" src="https://github.com/user-attachments/assets/7f26b0bb-c662-4bca-801e-b29c9f94d855" />
 
+## 🔮 Future Work
+
+- Apply **Machine Learning models** (Logistic Regression, Random Forest, XGBoost) to predict customer churn.
+- Perform **feature importance analysis** to identify key churn drivers.
+- Automate the churn prediction pipeline and connect model outputs with **Power BI** for real-time insights.
+
 
