@@ -32,3 +32,9 @@ SQL is used for data querying and transformation, while Power BI is used for int
 - Customers with month-to-month contracts have higher churn
 - Short tenure customers are more likely to churn
 - Electronic check payment users show higher churn
+
+## 📊 Dashboard Preview
+
+![Dashboard Overview](<img width="1332" height="741" alt="DashBoardImg" src="https://github.com/user-attachments/assets/7f26b0bb-c662-4bca-801e-b29c9f94d855" />
+)
+
